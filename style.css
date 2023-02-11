@@ -1,0 +1,33 @@
+.nav1{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.but1{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 100px;
+}
+
+.pic1{
+    height: 400px;
+    width: 700px;
+}
+
+body{
+    margin: 0%;
+}
+
+.divi{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.p2{
+    font-size: xx-large;
+    margin-left: -20px;
+}
